@@ -7,7 +7,7 @@ This project conducts an analysis of different predictive models to forecast hot
 
 ## Repository Contents
 
-- **Data-Driven Forecasting of Hotel Booking Cancellations Final Report.pdf**: A comprehensive report detailing the findings and methodologies used in the project. [View Here](https://github.com/pdange21/Data-Driven-Forecasting-of-Hotel-Booking-Cancellations/blob/main/Data-Driven%20Forecasting%20of%20Hotel%20Booking%20Cancellations%20Final%20Report.pdf)
+- **Data-Driven Forecasting of Hotel Booking Cancellations Final Report.pdf**: A comprehensive report detailing the findings and methodologies used in the project. [View Here](https://github.com/vtickoo2/Data_Driven_Forecasting_of_Hotel_Booking_Cancellations/blob/main/Hotel%20Reservation%20Cancellation%20Prediction%20Report.pdf)
   
 - **Data-Driven Forecasting of Hotel Booking Cancellations Presentation.pdf**: A presentation slide deck summarizing the project's key points.
   
